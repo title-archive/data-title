@@ -15,9 +15,23 @@
   },
   {
     "id": 3,
-    "name": "banana",
+    "name": "банан 1",
     "image": "https://media.istockphoto.com/id/1437177894/ru/фото/банан.jpg?s=612x612&w=0&k=20&c=oP9P_ee4kmUmRSB7DIQyFCooYULsCyCrvTq3XqeGRYA=",
     "rarity": "epic",
-    "description": "купил банан"
+    "description": "купил 1 банан"
+  },
+  {
+    "id": 4,
+    "name": "банан 2",
+    "image": "https://media.istockphoto.com/id/1437177894/ru/фото/банан.jpg?s=612x612&w=0&k=20&c=oP9P_ee4kmUmRSB7DIQyFCooYULsCyCrvTq3XqeGRYA=",
+    "rarity": "rare",
+    "description": "купил 2 банан"
+  }, 
+  {
+    "id": 5,
+    "name": "banana 3",
+    "image": "https://media.istockphoto.com/id/1437177894/ru/фото/банан.jpg?s=612x612&w=0&k=20&c=oP9P_ee4kmUmRSB7DIQyFCooYULsCyCrvTq3XqeGRYA=",
+    "rarity": "uncommon",
+    "description": "купил 3 банан"
   }
 ]
