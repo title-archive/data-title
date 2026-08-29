@@ -6,13 +6,26 @@
       "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
       "short": "Title word — авторский архив новостей. Присылайте материалы, я публикую.",
       "full": "Title word — это авторский архив новостей и заметок.\n\nСайт только запустился, контента пока мало. Если нашли что-то интересное — пришлите, я посмотрю.\n\nЧто можно присылать:\n• Ссылки на Telegram-каналы с годными постами\n• Ссылки на новости\n• Ссылки на статьи, блоги, форумы\n• Свои тексты (если есть)\n\nЧто я делаю с материалами:\n• Проверяю\n• Редактирую (убираю ошибки, сокращаю)\n• Если тема годная — публикую на Title word\n\nКак отправить:\n• По почте: <a href='mailto:title0archive@gmail.com'>title0archive@gmail.com</a>\n• Через Telegram-бота: <a href='https://t.me/title_word_bot'>@title_word_bot</a>\n\nВ письме или сообщении укажите:\n• Ссылку на материал\n• О чём там\n• Если хотите — как подписать автора (ник или имя)\n\nОт Title word",
+      "date": "2026-08-29",
+      "tags": ["TitleWord", "сайт", "новости"],
+      "author": "Title word",
+      "images": [
+        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
+        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Сайт обновляется на Node.js и получит систему аккаунтов!",
+      "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
+      "short": "Сайт будет модернизирован на Node.js. Появятся профили пользователей, коллекционные карточки, система просмотров и лайков/дизлайков.",
+      "full": "Сайт скоро обновится.\n\nЧто изменится:\n\n1. Сайт переедет на Node.js\n\nБудет быстрее.\nУдобнее.\nСовременнее.\n\n2. Появится система аккаунтов\n\nПрофили пользователей.\nКоллекционные карточки.\nСистема просмотров.\nЛайки и дизлайки.\n\n3. Вход без аккаунта останется\n\nНо часть статей будет доступна только для зарегистрированных пользователей.\nНа главной странице — только часть контента.\n\n4. Предлагать статьи можно будет прямо на сайте\n\nБез почты.\nБез Telegram.\nПросто форма на сайте.\n\nКогда?\n\nСкоро.\n\nСледите за обновлениями.",
       "date": "2026-08-28",
       "tags": ["TitleWord", "сайт", "новости"],
       "author": "Title word",
       "images": [
         "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
-        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png",
-        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-archive_error.jpg"
+        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
       ]
     },
     {
