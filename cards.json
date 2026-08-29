@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": 1,
+    "name": "Основатель",
+    "image": "cards/founder.png",
+    "rarity": "legendary",
+    "description": "Создатель архива Title word. Первый шаг в мир криптидов."
+  },
+  {
+    "id": 2,
+    "name": "Спамтон",
+    "image": "cards/pipis.gif",
+    "rarity": "legendary",
+    "description": "Настоящий Спамтон Т. Спамтон"
+  }
+]
