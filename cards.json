@@ -4,7 +4,7 @@
     "name": "Основатель",
     "image": "cards/founder.png",
     "rarity": "legendary",
-    "description": "Создатель архива Title word. Первый шаг в мир криптидов."
+    "description": "Создатель архива Title word."
   },
   {
     "id": 2,
@@ -12,5 +12,12 @@
     "image": "cards/pipis.gif",
     "rarity": "legendary",
     "description": "Настоящий Спамтон Т. Спамтон"
+  },
+  {
+    "id": 3,
+    "name": "banana",
+    "image": "https://avatars.mds.yandex.net/i?id=92bfb2e22576359e483504049b1631276aa5ec39-4055686-images-thumbs&n=13",
+    "rarity": "epic",
+    "description": "купил банан"
   }
 ]
