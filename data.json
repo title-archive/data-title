@@ -15,20 +15,6 @@
       ]
     },
     {
-      "id": 12,
-      "title": "Сайт обновляется на Node.js и получит систему аккаунтов!",
-      "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
-      "short": "Сайт будет модернизирован на Node.js. Появятся профили пользователей, коллекционные карточки, система просмотров и лайков/дизлайков.",
-      "full": "Сайт скоро обновится.\n\nЧто изменится:\n\n1. Сайт переедет на Node.js\n\nБудет быстрее.\nУдобнее.\nСовременнее.\n\n2. Появится система аккаунтов\n\nПрофили пользователей.\nКоллекционные карточки.\nСистема просмотров.\nЛайки и дизлайки.\n\n3. Вход без аккаунта останется\n\nНо часть статей будет доступна только для зарегистрированных пользователей.\nНа главной странице — только часть контента.\n\n4. Предлагать статьи можно будет прямо на сайте\n\nБез почты.\nБез Telegram.\nПросто форма на сайте.\n\nКогда?\n\nСкоро.\n\nСледите за обновлениями.",
-      "date": "2026-08-28",
-      "tags": ["TitleWord", "сайт", "новости"],
-      "author": "Title word",
-      "images": [
-        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD.png",
-        "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
-      ]
-    },
-    {
       "id": 3,
       "title": "НОВЫЙ обратный тоннель",
       "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/3.png",
