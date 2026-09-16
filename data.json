@@ -148,6 +148,18 @@
         "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/Blink.png",
         "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/max_9090.jpg"
       ]
+    },
+    {
+      "id": "14",
+      "title": "Title Word — приложение для ПК и Android",
+      "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/apk.png",
+      "short": "Готовится приложение Title Word для ПК и телефонов на Android. Написано на Python. Форматы: EXE и APK. Внутри — попытка обхода белых списков, чтобы сайт работал в любых условиях. Скоро появится страница со ссылками на скачивание.",
+      "date": "2026-09-16",
+      "full": "Скоро появится приложение Title Word.\n\nЧто это?\n\nЭто приложение для просмотра сайта Title.\n\nБудет работать на:\n- ПК (Windows)\n- Телефонах Android\n\nФорматы:\n- EXE — для компьютера\n- APK — для Android\n\nНа чём сделано?\n\nПолностью на Python.\n\nЗачем приложение, если есть сайт?\n\nГлавная причина — блокировки.\n\nСайт на зарубежном хостинге.\nПровайдеры в России замедляют.\nИногда сайт вообще не открывается.\n\nЧто будет внутри?\n\nПопытка обхода белых списков.\n\nЭто значит, что приложение будет пытаться работать даже там, где сайт не открывается.\n\nОбход белых списков — это не VPN.\nЭто другой механизм.\n\nНо подробностей пока нет.\n\nКогда выйдет?\n\nСкоро.\n\nГде скачать?\n\nНа сайте появится отдельная страница со ссылками.\n\nТам будут:\n- Ссылка на EXE\n- Ссылка на APK\n- Инструкция по установке\n\nЧто дальше?\n\nБудет обновление.\n\nСледите за новостями.\n\nTitle Word — приложение для тех, кому нужен доступ к сайту в любых условиях.",
+      "tags": ["TitleWord", "сайт", "apk"],
+      "images": [
+      "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/apk.png"
+      ]
     }
   ]
 }
