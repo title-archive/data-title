@@ -396,6 +396,19 @@
   "images": [
     "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
   ]
+    },
+    {
+  "id": 31,
+  "title": "Релиз 1.6 — что нового в Title Word",
+  "category": "tech",
+  "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png",
+  "tags": ["Title Word", "обновление", "релиз 1.6", "приложение"],
+  "short": "Вышел релиз 1.6. Добавлены избранное, смена иконок в разделах к праздникам, улучшенный режим разработчика и виджет на главный экран.",
+  "full": "<b>Релиз 1.6</b>\n\nВ этом выпуске представлены следующие улучшения:\n\n<hr>\n\n<b>Избранное</b>\n\nТеперь можно добавлять статьи в избранное.\n\nЧтобы не потерять то, что важно.\n\n<hr>\n\n<b>Иконки к событиям</b>\n\nИконки в разделах меняются к праздникам.\n\nХэллоуин, Новый год и другие события.\n\nПриложение выглядит по-разному в разное время года.\n\n<hr>\n\n<b>Улучшенный режим разработчика</b>\n\nРежим разработчика стал удобнее.\n\nБольше возможностей.\n\nБольше настроек.\n\n<hr>\n\n<b>Виджет на главный экран</b>\n\nДобавлен виджет.\n\nТеперь можно вывести Title Word на главный экран телефона.\n\n<hr>\n\n<span style='color: #888;'>От Title Word</span>",
+  "date": "2026-10-08",
+  "images": [
+    "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
+  ]
     }
   ]
 }
