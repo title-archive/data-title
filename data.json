@@ -345,7 +345,19 @@
         "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/Picsart_26-10-06_15-09-21-837.jpg"
       ]
     },
-  
+  {
+  "id": 27,
+  "title": "Релиз 1.8 в Title Word — новые функции и стабильная версия",
+  "category": "tech",
+  "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png",
+  "tags": ["Title Word", "обновление", "релиз 1.8", "stable", "приложение", "GitHub"],
+  "short": "Вышел релиз 1.8. Добавлены кнопка «Наверх», экономия трафика, диагностика сети, правовая информация и пасхалки. Сразу после него вышла стабильная версия 1.8.stable — с исправлениями интерфейса, поддержкой Android 7 и зеркалом GitHub.",
+  "full": "<b>В приложении Title Word вышло обновление.</b>\n\nСначала версия 1.8.\nПотом — сразу 1.8.stable.\n\n<hr>\n\n<b>Что нового в 1.8</b>\n\n<ul>\n<li>Кнопка «Наверх» для быстрого возврата к началу списка новостей</li>\n<li>Настройка экономии трафика «Загружать только по Wi-Fi»</li>\n<li>Экран «Диагностика сети» в меню разработчика</li>\n<li>Анонимная аналитика для улучшения стабильности</li>\n<li>Экран «Правовая информация» (Политика конфиденциальности и Соглашение)</li>\n<li>Пасхалки в приложении</li>\n<li>Исправлен баг с вылетом приложения при открытии настроек</li>\n<li>Улучшена стабильность и исправлены мелкие ошибки</li>\n</ul>\n\n<hr>\n\n<b>Что нового в 1.8.stable</b>\n\n<ul>\n<li>Исправлены баги интерфейса</li>\n<li>Зеркало GitHub на <a href='http://title-word.cloudpub.ru'>title-word.cloudpub.ru</a> как дополнительный загрузчик</li>\n<li>Поддержка Android 7</li>\n<li>Улучшенный режим разработчика</li>\n</ul>\n\n<hr>\n\n<b>Важно про зеркало</b>\n\nДобавлено зеркало GitHub.\n\nТеперь, если GitHub заблокирован или работает нестабильно, файлы будут загружаться через резервный сервер.\n\nЭто решает проблемы с доступом.\n\n<hr>\n\n<span style='color: #888;'>От Title Word</span>",
+  "date": "2026-10-17",
+  "images": [
+    "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
+  ]
+  },
     {
       "id": 28,
       "title": "Почему Title Word не обновляется в RuStore",
