@@ -345,19 +345,7 @@
         "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/Picsart_26-10-06_15-09-21-837.jpg"
       ]
     },
-    {
-      "id": 27,
-      "title": "тут ничего нет",
-      "category": "ничего",
-      "image": "",
-      "short": "ничего",
-      "date": "1970-01-01",
-      "full": "<b>правда тут ничего нет</b>\n\n<hr>\n\nдаже не ищите",
-      "tags": ["нечего"],
-      "images": [
-        ""
-      ]
-    },
+  
     {
       "id": 28,
       "title": "Почему Title Word не обновляется в RuStore",
