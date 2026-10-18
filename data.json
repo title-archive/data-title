@@ -503,14 +503,15 @@
    },
     {
     "id": 40,
-    "title": "[он за деревом]",
-    "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/what-if-the-forgotten-man-symbolizes-repressed-memories-in-v0-ap8sc93qxbcf1.png",
-    "short": "[мужчина за деревом ждал вас.]",
-    "full": "",
-    "images":[
-      "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/what-if-the-forgotten-man-symbolizes-repressed-memories-in-v0-ap8sc93qxbcf1.png"
-    ]
-    },
+    "title": "Тьма приближается...",
+    "short": "Это не обычная новость. Ты нашёл скрытую пасхалку.",
+    "full": "<b>Ты нашёл пасхалку Deltarune!</b><br><br>Эта новость спрятана от обычных пользователей. Ты — один из немногих, кто смог её найти.<br><br>Пасхалка работает с 15 октября по 2 ноября. Попробуй быстро переключаться между экранами приложения в этот период — и, возможно, тебе повезёт.<br><br>Шанс — 2%. Удача любит настойчивых!",
+    "date": "2026-10-15",
+    "image": "hidden_egg.png",
+    "category": "mystic",
+    "tags": ["пасхалка", "секрет"],
+    "source": "Title word"
+},
     {
   "id": 42,
   "title": "Пользователи Discord начали рисовать жестокие арты с маскотом Вампусом",
