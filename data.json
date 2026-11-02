@@ -639,6 +639,19 @@
   "images": [
     "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/images%20(36).jpeg"
   ]
- }
+ },
+    {
+  "id": 52,
+  "title": "©title идёт спасать пользователей Windows Phone 8.1",
+  "category": "tech",
+  "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/Picsart_26-11-02_16-09-34-836.jpg",
+  "tags": ["Windows Phone", "WP81", "©title", "Nokia Lumia", "Title Word", "приложения", "закрытое тестирование"],
+  "short": "Компания ©title анонсировала серию приложений для заброшенной Windows Phone 8.1. В планах — File Explorer, Word, Browser, Proxy, Store, Video и Maps. Часть уже доступна в бета-версии. Идёт набор тестировщиков.",
+  "full": "<b>Windows Phone 8.1 официально заброшена.</b>\n\nНо ©title решила это исправить.\n\n<hr>\n\n<b>Что планируется</b>\n\nВ планах — целая экосистема приложений:\n\n<ul>\n<li><b>Title File Explorer</b> — файловый менеджер</li>\n<li><b>Title Word</b> — клиент для нашего сайта</li>\n<li><b>Title Browser</b> — браузер</li>\n<li><b>Title Proxy</b> — прокси-клиент</li>\n<li><b>Title Store</b> — магазин приложений (пока под вопросом)</li>\n<li><b>Title Video</b> — видеоплеер</li>\n<li><b>Title Maps</b> — карты</li>\n</ul>\n\n<hr>\n\n<b>Что уже готово</b>\n\nЧасть приложений уже находится в бета-версии:\n\n<ul>\n<li>TitleWordWP</li>\n<li>Title Video</li>\n<li>Title File Explorer</li>\n</ul>\n\n<hr>\n\n<b>Как участвовать</b>\n\nЕсли у вас завалялась Nokia Lumia или другое устройство на Windows Phone — вы можете участвовать в закрытом тестировании.\n\nДля этого напишите на почту:\n<a href='mailto:Title0archive@gmail.com'>Title0archive@gmail.com</a>\n\n<hr>\n\n<span style='color: #888;'>От Title Word</span>",
+  "date": "2026-11-02",
+  "images": [
+    "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/Picsart_26-11-02_16-09-34-836.jpg"
+  ]
+    }
   ]
 }
