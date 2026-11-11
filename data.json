@@ -743,6 +743,19 @@
   "images": [
     "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/11014464_original.jpg"
   ]
+},
+    {
+  "id": 61,
+  "title": "Title Word для Windows переписан на Rust — пре-релиз 0.1.0",
+  "category": "tech",
+  "image": "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png",
+  "tags": ["Rust", "Windows", "Title Word", "PyQt6", "webview", "релиз", "разработка"],
+  "short": "Разработчики Title Word выпустили пре-релиз 0.1.0 для Windows. Приложение полностью переписали на Rust, а интерфейс перевели с Python и PyQt6 на webview. Это объясняет, почему Android-версия давно не обновлялась.",
+  "full": "<b>Title Word для Windows получил крупное обновление.</b>\n\nВышел пре-релиз версии <b>0.1.0</b>.\n\n<hr>\n\n<b>Что изменилось</b>\n\nПриложение полностью переписали на <b>Rust</b>.\n\nСтарый стек — Python и PyQt6 — заменили на <b>webview</b>.\n\nЭто должно сделать программу быстрее и легче.\n\n<hr>\n\n<b>Почему Android не обновлялся</b>\n\nВы наверняка заметили, что Android-приложение давно не получало обновлений.\n\nТеперь ответ есть.\n\nВся команда была занята переписыванием Windows-версии.\n\nПлюс, как мы писали ранее, модерация RuStore затянулась на неопределённый срок.\n\n<hr>\n\n<b>Где скачать</b>\n\nПре-релиз доступен на GitHub:\n\n<a href='https://github.com/title-archive/TitleWord_windows/releases/tag/title_rust'>github.com/title-archive/TitleWord_windows/releases/tag/title_rust</a>\n\n<hr>\n\n<span style='color: #888;'>От Title Word</span>",
+  "date": "2026-11-11",
+  "images": [
+    "https://raw.githubusercontent.com/title-archive/data-title/refs/heads/main/title-WORD_2026.png"
+  ]
 }
   ]
 }
